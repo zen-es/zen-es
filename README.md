@@ -129,15 +129,14 @@ Me gusta construir proyectos que no solo funcionen, sino que sean **útiles, rá
   </a>
 </p>
 
-<!--
-Cuando tengas un enlace de invitación a tu servidor de Discord, elimina estas líneas de comentario y sustituye TU_ENLACE_DISCORD:
+
+Cuando tengas un enlace de invitación a tu servidor de Discord, elimina estas líneas de comentario y sustituye [ünete a nuestra comunidad de bots personalizados](https://discord.gg/W4dqc7xfQW):
 
 <p align="center">
   <a href="TU_ENLACE_DISCORD">
     <img src="https://img.shields.io/badge/Discord-Comunidad_ZEN_ES-FF1493?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010" alt="Discord de ZEN ES" />
   </a>
 </p>
--->
 
 ---
 
