@@ -139,7 +139,8 @@ Me gusta construir proyectos que no solo funcionen, sino que sean **útiles, rá
   </a>
 </p>
 
-[ünete a nuestra comunidad de bots personalizados](https://discord.gg/W4dqc7xfQW):
+[Únete a nuestra comunidad](https://discord.gg/W4dqc7xfQW):
+Comunidad de Bots personalizados a tu gusto.
 
 <p align="center">
   <a href="TU_ENLACE_DISCORD">
