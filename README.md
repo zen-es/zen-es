@@ -139,8 +139,7 @@ Me gusta construir proyectos que no solo funcionen, sino que sean **útiles, rá
   </a>
 </p>
 
-
-Cuando tengas un enlace de invitación a tu servidor de Discord, elimina estas líneas de comentario y sustituye [ünete a nuestra comunidad de bots personalizados](https://discord.gg/W4dqc7xfQW):
+[ünete a nuestra comunidad de bots personalizados](https://discord.gg/W4dqc7xfQW):
 
 <p align="center">
   <a href="TU_ENLACE_DISCORD">
