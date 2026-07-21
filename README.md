@@ -44,13 +44,13 @@ Me gusta construir proyectos que no solo funcionen, sino que sean **útiles, rá
       <h3 align="center">🌙 Luna</h3>
       <p align="center"><b>Bot todo en uno para Discord</b></p>
       <p>Moderación, AutoMod, seguridad, antiraid, tickets, registros, roles, sugerencias, sorteos, automatizaciones y muchas más utilidades.</p>
-      <p align="center"><img src="https://img.shields.io/badge/ESTADO-EN%20DESARROLLO-FF1493?style=for-the-badge&labelColor=101010" alt="Luna en desarrollo" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/ESTADO-EN%20DESARROLLO-FF1493?style=for-the-badge&labelColor=101010" alt="Proyecto Luna" /></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📨 ModMail</h3>
       <p align="center"><b>Soporte privado y organizado</b></p>
       <p>Sistema de contacto entre usuarios y equipos de soporte mediante mensajes privados, casos, registros, categorías y respuestas del equipo.</p>
-      <p align="center"><img src="https://img.shields.io/badge/PROYECTO-MODMAIL-FF1493?style=for-the-badge&labelColor=101010" alt="Proyecto ModMail" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/PROYECTO-MODMAIL-FF1493?style=for-the-badge&labelColor=101010" alt="En desarrollo ModMail" /></p>
     </td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ Me gusta construir proyectos que no solo funcionen, sino que sean **útiles, rá
       <h3 align="center">🎫 Insticket</h3>
       <p align="center"><b>Tickets rápidos y personalizables</b></p>
       <p>Creación y gestión de tickets con formularios, departamentos, permisos, transcripciones, valoraciones y estadísticas del equipo.</p>
-      <p align="center"><img src="https://img.shields.io/badge/PROYECTO-INSTICKET-FF1493?style=for-the-badge&labelColor=101010" alt="Proyecto Insticket" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/PROYECTO-INSTICKET-FF1493?style=for-the-badge&labelColor=101010" alt="En desarrollo Insticket" /></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧪 Más proyectos</h3>
