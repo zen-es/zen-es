@@ -72,7 +72,7 @@ Me gusta construir proyectos que no solo funcionen, sino que sean **útiles, rá
       <p>También trabajo en utilidades, sistemas de seguridad, paneles web, APIs, automatizaciones, módulos de moderación y nuevas ideas para Discord.</p>
       <p align="center">
         <a href="https://github.com/zen-es?tab=repositories">
-          <img src="https://img.shields.io/badge/VER-REPOSITORIOS%20PÚBLICOS-FF1493?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Ver repositorios públicos" />
+          <img src="https://img.shields.io/badge/VER-REPOSITORIOS%20PRIVADOS-FF1493?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Ver repositorios públicos" />
         </a>
       </p>
     </td>
