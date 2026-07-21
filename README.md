@@ -101,16 +101,13 @@ Me gusta construir proyectos que no solo funcionen, sino que sean **útiles, rá
 
 ---
 
-## 📊 Mis estadísticas en GitHub
+## 📊 Actividad en GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zen-es&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF&locale=es" alt="Estadísticas de GitHub de ZEN ES" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen-es&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFFFFF&locale=es" alt="Lenguajes más utilizados" />
+  <img src="https://streak-stats.demolab.com?user=zen-es&hide_border=true&background=0D1117&ring=FF1493&fire=FF1493&currStreakLabel=FF1493&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&locale=es" alt="Actividad de ZEN ES" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zen-es&hide_border=true&background=0D1117&ring=FF1493&fire=FF1493&currStreakLabel=FF1493&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&locale=es" alt="Racha de contribuciones de ZEN ES" />
-</p>
+---
 
 ---
 
