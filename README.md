@@ -44,13 +44,17 @@ Me gusta construir proyectos que no solo funcionen, sino que sean **útiles, rá
       <h3 align="center">🌙 Luna</h3>
       <p align="center"><b>Bot todo en uno para Discord</b></p>
       <p>Moderación, AutoMod, seguridad, antiraid, tickets, registros, roles, sugerencias, sorteos, automatizaciones y muchas más utilidades.</p>
-      <p align="center"><img src="https://img.shields.io/badge/ESTADO-EN%20DESARROLLO-FF1493?style=for-the-badge&labelColor=101010" alt="Proyecto Luna" /></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ESTADO-ACTIVO-FF1493?style=for-the-badge&labelColor=101010" alt="Luna en estado activo" />
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📨 ModMail</h3>
       <p align="center"><b>Soporte privado y organizado</b></p>
       <p>Sistema de contacto entre usuarios y equipos de soporte mediante mensajes privados, casos, registros, categorías y respuestas del equipo.</p>
-      <p align="center"><img src="https://img.shields.io/badge/PROYECTO-MODMAIL-FF1493?style=for-the-badge&labelColor=101010" alt="En desarrollo ModMail" /></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ESTADO-EN%20DESARROLLO-FF1493?style=for-the-badge&labelColor=101010" alt="ModMail en desarrollo" />
+      </p>
     </td>
   </tr>
   <tr>
@@ -58,13 +62,19 @@ Me gusta construir proyectos que no solo funcionen, sino que sean **útiles, rá
       <h3 align="center">🎫 Insticket</h3>
       <p align="center"><b>Tickets rápidos y personalizables</b></p>
       <p>Creación y gestión de tickets con formularios, departamentos, permisos, transcripciones, valoraciones y estadísticas del equipo.</p>
-      <p align="center"><img src="https://img.shields.io/badge/PROYECTO-INSTICKET-FF1493?style=for-the-badge&labelColor=101010" alt="En desarrollo Insticket" /></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ESTADO-EN%20DESARROLLO-FF1493?style=for-the-badge&labelColor=101010" alt="Insticket en desarrollo" />
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧪 Más proyectos</h3>
       <p align="center"><b>Bots, módulos y herramientas</b></p>
       <p>También trabajo en utilidades, sistemas de seguridad, paneles web, APIs, automatizaciones, módulos de moderación y nuevas ideas para Discord.</p>
-      <p align="center"><a href="https://github.com/zen-es?tab=repositories"><img src="https://img.shields.io/badge/VER-REPOSITORIOS-FF1493?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Ver repositorios" /></a></p>
+      <p align="center">
+        <a href="https://github.com/zen-es?tab=repositories">
+          <img src="https://img.shields.io/badge/VER-REPOSITORIOS%20PÚBLICOS-FF1493?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Ver repositorios públicos" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
